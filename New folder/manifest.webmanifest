@@ -1,0 +1,15 @@
+{
+  "name": "Lexinodix",
+  "short_name": "Lexinodix",
+  "description": "An AI empire engineering intelligent products — Nodex, Flow, and Edu.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#F5F1EC",
+  "theme_color": "#072A40",
+  "lang": "en",
+  "icons": [
+    { "src": "/assets/img/mark.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "/assets/img/apple-touch-icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
